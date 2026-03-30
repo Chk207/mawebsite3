@@ -1,0 +1,62 @@
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+}
+.dasher {
+    margin-top: 3px;
+    background-color: green;
+    color: black;
+    cursor: pointer;
+    transition: 0.2s;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 16px 32px;
+    border-radius: 12px;
+}
+.dasher:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+.dasher:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.dasherpage2button {
+    color: black;
+    background-color: green;
+    cursor: pointer;
+    transition: 0.2s;
+    border: none;
+    padding: 16px 32px;
+    border-radius: 12px;
+}
+.dasherpage2button:hover {
+    transform: scale(1.05);
+    
+}
+.dasherpage2button:active {
+    transform: scale(0.95);
+}
+.dasher20 {
+    margin-top: 3px;
+    background-color: green;
+    color: black;
+    cursor: pointer;
+    transition: 0.2s;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 16px 32px;
+    border-radius: 12px;
+}
+.dasher20:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+.dasher20:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
